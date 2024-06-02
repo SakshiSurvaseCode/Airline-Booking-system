@@ -1,2 +1,2 @@
 # Airline-Booking-system
-In this project I developed a basic Airline Booking management system using Python (TKinter library) and MySQL database
+This project is a basic Airline Booking Management System developed using Python's Tkinter library for the graphical user interface and MySQL database for storing and managing flight information. The system allows users to book, cancel, and manage flights, as well as view flight schedules and availability. It provides a user-friendly interface for customers to easily interact with the system, making it a convenient tool for airline staff to manage bookings and flights efficiently.
